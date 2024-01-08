@@ -1,0 +1,2 @@
+cpf.replace(/\D+/g, '');
+/\D+/g -> nesta função essa expressão regular remove tudo o que não for numero
